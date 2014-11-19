@@ -1,3 +1,5 @@
+Reference: Saito, Sturmfels, and Takayama: Groebner Deformations of Hypergeometric Differential Equations. 
+
 Geometric deformations. 
 
 While perturbation techniques are used in analysis,
