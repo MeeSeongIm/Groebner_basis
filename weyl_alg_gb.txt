@@ -1,7 +1,7 @@
 Geometric deformations. 
 
 While perturbation techniques are used in analysis,
-Groebner deformations of left ideals in Weyl algebras are used as algebraic techniques. 
+Groebner deformations of left ideals in Weyl algebras are used as algebraic analogues to classical analytic techniques. 
 
 Will focus on Groebner deformations of high-dimensional Gelfand-Kapranov-Zelevinsky hypergeometric systems. 
 
