@@ -51,6 +51,6 @@ s  + s
 QQ[s]
 
 
+Reference: page 104 in Saito, Sturmfels, Takayama's Groebner Deformations of Hypergeometric Differential Equations.
 
-
-
+The b-function b(s) is defined as the monic generator of the intersection of in(-w,w)(I) and K[w1x1D1 + ... + wnxnDn]. 
